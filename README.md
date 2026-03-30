@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/sumitkumarjha7788.png" width="100%" height="280" align="center" style="display: block; margin: auto; border-radius: 12px; border: 1px solid #30363d;" alt="Sumit Kumar Jha Banner" />
-
+<!--<img src="https://github.com/sumitkumarjha7788.png" width="100%" height="280" align="center" style="display: block; margin: auto; border-radius: 12px; border: 1px solid #30363d;" alt="Sumit Kumar Jha Banner" />
+-->
 <br/>
 
 # Sumit Kumar Jha
